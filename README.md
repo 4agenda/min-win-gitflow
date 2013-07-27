@@ -5,7 +5,7 @@ Minimal windows instalation package for gitflow
 
 Releated links
 ---------------
-* [gitflow repository is here](https://github.com/nvie/gitflow
+* [gitflow repository is here](https://github.com/nvie/gitflow)
 * [dependencies is here](http://gnuwin32.sourceforge.net/packages/util-linux-ng.htm)
 
 Install:
